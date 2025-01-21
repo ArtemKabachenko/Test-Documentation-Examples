@@ -4,8 +4,8 @@ There are list of different testing docs examples can be used as a reference for
 ## Test Case
 |Document name| English                                                          | Ukrainian                                                          |
 |---|------------------------------------------------------------------|--------------------------------------------------------------------|
-|Manual test cases| [english](test%20cases/manual_test_cases_01_en.md)               | [ukrainian](test%20cases/manual_test_cases_01_ua.md)               |
-|E2E test cases| TODO                                                             | TODO                                                               |
+|Manual WEB test cases| [english](test%20cases/manual_test_cases_01_en.md)               | [ukrainian](test%20cases/manual_test_cases_01_ua.md)               |
+|Manual API test cases| TODO                                                             | TODO                                                               |
 
 ## Checklist
 |Document name|English|Ukrainian|
